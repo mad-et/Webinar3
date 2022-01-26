@@ -36,7 +36,7 @@ namespace App3
             employee2.Input();
             Console.WriteLine(employee2.GetInfo());
 
-            Console.ReadKey();
+            Console.ReadKey();  
         }
     }
 }
